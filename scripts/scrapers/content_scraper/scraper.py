@@ -22,7 +22,7 @@ from playwright.async_api import async_playwright
 
 # Project paths
 SCRIPT_DIR = Path(__file__).parent.resolve()
-PROJECT_ROOT = SCRIPT_DIR.parent.parent
+PROJECT_ROOT = SCRIPT_DIR.parent.parent.parent  # scripts/scrapers/content_scraper -> project root
 NEWS_DIR = PROJECT_ROOT / "content" / "news"
 CONFIG_FILE = SCRIPT_DIR / "config.yml"
 REGISTRY_FILE = SCRIPT_DIR / "scraped_urls.json"

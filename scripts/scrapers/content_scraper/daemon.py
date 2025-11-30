@@ -73,7 +73,7 @@ def retry_on_failure(max_retries: int = 3, delay: float = 5, backoff: float = 2,
 
 # Project paths
 SCRIPT_DIR = Path(__file__).parent.resolve()
-PROJECT_ROOT = SCRIPT_DIR.parent.parent
+PROJECT_ROOT = SCRIPT_DIR.parent.parent.parent  # scripts/scrapers/content_scraper -> project root
 LOGS_DIR = PROJECT_ROOT / "logs"
 LOG_FILE = LOGS_DIR / "scraper.log"
 
