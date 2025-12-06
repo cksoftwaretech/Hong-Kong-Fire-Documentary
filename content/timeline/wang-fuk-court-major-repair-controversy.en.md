@@ -134,7 +134,6 @@ Wong's post-fire statements sparked significant controversy:
 
 ---
 
-
 [^2]: <https://zh.wikipedia.org/zh-hk/廣福邨>
 
 [^3]: <http://www.wangfuk.org/html/list/index2.htm>
@@ -169,7 +168,6 @@ Wong's post-fire statements sparked significant controversy:
 
 [^18]: <https://theinitium.com/20251201-hongkong-taipo-fire-scaffolding-netting-non-compliant/>
 
-
 [^20]: <https://www.info.gov.hk/gia/general/202512/01/P2025120100763.htm>
 
 [^21]: <https://www.instagram.com/p/DRnwOyMDGfF/>
@@ -182,11 +180,6 @@ Wong's post-fire statements sparked significant controversy:
 
 [^25]: <https://www.hk01.com/政情/60299320/宏福苑火災-黃碧嬌報案查-現屆法團-瀆職-大維修上屆法團通過>
 
-
-
-
-
 [^30]: <https://hk.finance.yahoo.com/news/宏福苑五級火-黃碧嬌稱大火屬人禍-將報案求查現屆法團是否瀆職-3-3億大維修由上屆法團拍板-085300048.html>
-
 
 [^32]: <https://www.facebook.com/inmediahknet/posts/宏福苑五級火-黃碧嬌稱經深思熟慮-向警方及廉政公署舉報現屆法團httpsbitly48keivq大埔宏福苑發生大火後當區的大埔南區議員民建聯黃碧嬌成為眾矢之的宏/1231680635674411/>
