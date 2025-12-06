@@ -1631,3 +1631,34 @@ fatal: unable to auto-detect email address (got 'hk-hack@fcy-mint.(none)')
 2025-12-07 01:56:00 | INFO     | Running scraper...
 2025-12-07 01:56:00 | ERROR    | Scraper error: No module named 'playwright'
 2025-12-07 01:56:00 | INFO     | Committing changes...
+2025-12-07 02:13:37 | INFO     | ============================================================
+2025-12-07 02:13:37 | INFO     | News Scraper Daemon Starting
+2025-12-07 02:13:37 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-07 02:13:37 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-07 02:13:37 | INFO     | Sync interval: 10 minutes
+2025-12-07 02:13:37 | INFO     | PR interval: 60 minutes
+2025-12-07 02:13:37 | INFO     | ============================================================
+2025-12-07 02:13:38 | INFO     | gh CLI authenticated
+2025-12-07 02:13:38 | INFO     | Setting up git remotes...
+2025-12-07 02:13:38 | INFO     | Configured origin remote
+2025-12-07 02:13:39 | INFO     | gh CLI authenticated
+2025-12-07 02:13:39 | INFO     | ----------------------------------------
+2025-12-07 02:13:39 | INFO     | Running periodic health check...
+2025-12-07 02:13:40 | INFO     | gh CLI authenticated
+2025-12-07 02:13:40 | INFO     | Health check passed
+2025-12-07 02:13:40 | INFO     | ----------------------------------------
+2025-12-07 02:13:40 | INFO     | Starting sync cycle...
+2025-12-07 02:13:40 | INFO     | Syncing with upstream...
+2025-12-07 02:13:41 | INFO     | Already up to date with upstream
+2025-12-07 02:13:41 | INFO     | Running scraper...
+2025-12-07 02:13:41 | INFO     | Found 2 new URLs to scrape
+2025-12-07 02:13:42 | ERROR    | Scraper error: BrowserType.launch: Executable doesn't exist at /home/hk-hack/.cache/ms-playwright/chromium_headless_shell-1194/chrome-linux/headless_shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-12-07 02:13:42 | INFO     | Committing changes...
