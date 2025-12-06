@@ -1,3 +1,16 @@
+[![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-yellow.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
+
+> **此專案不再維護**  
+> 作者已停止更新，歡迎 fork 繼續開發。
+> - 建議新版本/作者：[`adminlby/Hong-Kong-Fire-Documentary`](https://github.com/adminlby/Hong-Kong-Fire-Documentary)
+> - 此 repo 會設為唯讀
+> 
+> **This project is no longer maintained**  
+> The original author has stopped updates; feel free to fork and continue development.
+> - Recommended new version/maintainer: [`adminlby/Hong-Kong-Fire-Documentary`](https://github.com/adminlby/Hong-Kong-Fire-Documentary)
+> - This repo will be set to read-only.
+---
+
 [English Version](#english-version)
 
 > **Mirror Site / 鏡像網站**: <https://wfc-fire.collection.news/>
