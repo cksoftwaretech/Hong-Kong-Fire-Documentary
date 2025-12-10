@@ -287,8 +287,16 @@ def scrape_with_uc(url: str, config: dict) -> tuple[str, bool]:
     try:
         driver = uc.Chrome(headless=True, use_subprocess=False)
         driver.get(url)
-        element = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH, "/html/body/div[7]/div/div[1]/div[4]")))
-        return element.text, True
+        element = WebDriverWait(driver, 10).until(
+           EC.visibility_of_element_located((By.XPATH, "/html/body/div[7]/div/div[1]/div[4]"))
+        )
+        content = element.get_attribute("outerHTML")
+        check_content = element.text
+        if check_content.find("訂戶登入") > -1:
+            log(f"Need Subscriber Login")
+            return "", False
+        driver.close()
+        return content, True
     except Exception as e:
         log(f"  ⚠️ Undetected Chromedriver fallback failed: {str(e)[:40]}", "WARN")
         return "", False
