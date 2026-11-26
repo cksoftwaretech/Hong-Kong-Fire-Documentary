@@ -14,6 +14,10 @@ This section contains replies from government departments, public letters,
 statutory orders, and meeting minutes of the Owners' Corporation regarding the
 Wang Fuk Court fire and related matters.
 
+## Inquiry and follow-up developments in 2026
+
+The [official follow-up source index](follow-up/README.en.md) covers the inquiry report, hearing records, prosecutions, reforms, long-term housing, assistance and anniversary reporting through 26 November 2026, with source, publication and collection dates.
+
 ## Government Documents
 
 ### **Buildings Department (BD)**

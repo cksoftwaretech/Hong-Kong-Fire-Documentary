@@ -1,6 +1,18 @@
 # Changelog
 
-> Latest commit: 156db34 (2025-12-05 11:21:39) - Merge pull request #260 from cksoftwaretech/dev
+## 2026-11-26 內容更新 / Content update
+
+- 補充可核實的災後進展及官方資料，並分別標示內容涵蓋日期與本次查核日期。
+- 更新中英文時間線及資料導覽；核對原始會議記錄，修正大維修總額的十倍誤差及英文金額單位。
+- 新增中英死難者名單頁，按香港01報道所載五項誤殺控罪分組收錄168名姓名，核對人數，中文姓名統一以繁體顯示，並加入首頁、居民資料及時間線連結。
+- Added verified follow-up developments and official sources, distinguishing coverage dates from the review date.
+- Updated Chinese and English timelines and navigation; checked original meeting minutes and corrected the tenfold repair-cost error and English currency units.
+- Added bilingual pages listing all 168 names by the five manslaughter counts reported by HK01, checking totals, displaying Chinese names in Traditional Chinese and linking them from the home, residents and timeline pages.
+
+---
+
+> 以下按貢獻者編排的歷史變更記錄截至：156db34（2025-12-05 11:21:39）— Merge pull request #260 from cksoftwaretech/dev。
+> Historical records below are grouped by contributor and end at commit 156db34 (2025-12-05 11:21:39); this is not the repository's latest commit.
 
 ## heilcheng
 

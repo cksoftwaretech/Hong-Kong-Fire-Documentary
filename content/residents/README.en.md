@@ -8,6 +8,10 @@ keywords: Wang Fuk Court, residents discussion, community mutual aid, fire discu
 
 This section archives discussions, mutual aid information, and community voices from Wang Fuk Court residents during and after the fire. These records are valuable for reconstructing the event, understanding residents' needs, and documenting community mutual aid.
 
+## Publicly reported names of the deceased
+
+The [names of those who died in the Wang Fuk Court fire](victims.en.md) are grouped by the five manslaughter counts described in HK01's report. The page lists 168 names with Chinese names displayed in Traditional Chinese, reported death dates, source information, and publication, update and collection dates.
+
 ## Overview
 
 We are currently curating resident discussions from various channels, including:

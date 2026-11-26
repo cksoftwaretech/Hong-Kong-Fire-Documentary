@@ -1,5 +1,7 @@
 # Directory Index
 
+[Names of those who died in the Wang Fuk Court fire](residents/victims.en.md): 168 names and sources, grouped by the five reported manslaughter counts, with Chinese names displayed in Traditional Chinese.
+
 This page provides quick links to all major sections.
 
 ## [Timeline](timeline/README.en.md)

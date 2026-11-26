@@ -1,6 +1,8 @@
 # Wang Fuk Court Major Repair Controversy Record
 
-**Event Overview**: The Wang Fuk Court major repair project involves a HKD 3.3 billion cost, allegations of bid-rigging, and material safety issues revealed after the fire. This page details the relevant Owners' Corporations (OC) terms, project timeline, tender details, and key points of controversy.
+**Event Overview**: The Wang Fuk Court major repair project involves a cost of approximately HK$330 million, allegations of bid-rigging, and material safety issues revealed after the fire. This page details the relevant Owners' Corporations (OC) terms, project timeline, tender details, and key points of controversy.
+
+> **Amount correction (2026-11-26)**: The tenfold error in the project total and English currency units has been corrected. The summary attached to the [original minutes of the Special Owners' Meeting on 28 January 2024](../docs/meeting_minutes/pdf/2024-01-28.pdf#page=10) records works costing HK$320,586,930 and total fundraising of HK$336,616,277 including a 5% contingency; [The Witness's report of 28 November 2025](https://thewitnesshk.com/宏福苑五級火-逾3億維修費惹爭議-承辦商宏業建築/) also describes a total exceeding HK$330 million. Titles, allegations and responses below retain their original reporting context and do not represent investigative or judicial conclusions as of this correction date.
 
 ## 1. Relevant Owners' Corporations and Figures
 
@@ -10,7 +12,7 @@ The Wang Fuk Court Owners' Corporation was incorporated in 1997. The committees 
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | 2020–2024 | 11th Management Committee | Old OC (Phase 1) | Chairman: Tang Kwok-kuen<br>Vice-chair: Chan Ling-to<br>Secretary: Mak Mun-tong<br>Treasurer: Sin Lai-mei | Mok Wah-mun, Kwok Ka-leung, Lee Koon-wah, Lam Sin-bik, Chan Tak-shing, Shum Choi-ha, Ng Siu-fong, Ho Wai-lin, Choi Kam-lun, Yuen Fuk-wah, Lee Ting-wah, Wong Yuk-yi, Chan Man-cheung, etc. | Handled late stages of mandatory inspection and preparation for major repairs.[^3][^4] |
 | 2024–2024/09 | 12th Management Committee | Old OC (Phase 2) | Chairman: Tang Kwok-kuen<br>Vice-chair: Chan Tak-shing<br>Secretary: Ho Wai-lin<br>Treasurer: Sin Lai-mei | Kong Cheung-fat, Mok Wah-mun, Chan Wai-kuen, Kwok Ka-leung, Mak Mun-tong, Lee Koon-wah, Lam Sin-bik, Shum Choi-ha, Chan Ling-to, Chan Man-cheung, Choi Kam-lun, Yuen Fuk-wah, Lee Ting-wah | Term ended Sep 6, 2024. The last OC before being revoked by owners.[^3][^2] |
-| 2024/09–Present | Current Management Committee | New OC | Chairman: Tsui Mun-kam<br>Vice-chair: Mak Chi-hung<br>Secretary: Ho Chung-hang<br>Treasurer: Cheung Tsz-wan | Yip Bik-yee, Tse Po-sum, Law Wing-lun, Chan Man-ho, Fung Ching-yan, Kong Cheung-fat, Tang Ka-yan, Lam Wai-man, So Sin-ting, Mak Chi-shing, Lee Yat-hing | Elected at the Special Owners' Meeting in Sep 2024. In office during the fire.[^2][^6][^5] |
+| From 2024/09 (in office during the fire) | Current Management Committee | New OC | Chairman: Tsui Mun-kam<br>Vice-chair: Mak Chi-hung<br>Secretary: Ho Chung-hang<br>Treasurer: Cheung Tsz-wan | Yip Bik-yee, Tse Po-sum, Law Wing-lun, Chan Man-ho, Fung Ching-yan, Kong Cheung-fat, Tang Ka-yan, Lam Wai-man, So Sin-ting, Mak Chi-shing, Lee Yat-hing | Elected at the Special Owners' Meeting in Sep 2024. In office during the fire.[^2][^6][^5] |
 
 ## 2. Key Timeline of Major Repair Project
 
@@ -22,7 +24,7 @@ The Wang Fuk Court Owners' Corporation was incorporated in 1997. The committees 
 | **2023-07-04** | **Tender Closing** | Old OC | A total of **57 eligible contractors** submitted bids.[^12][^11][^14] |
 | **2023-07-05** | **Bid Opening** | Old OC | Bids opened in presence of OC and URA representatives; consultant began detailed evaluation.[^12][^11][^9] |
 | **2023-08** | **Consultant Analysis Report** | Old OC | Consultant Will Power Architects submitted analysis. Macro Construction rated as having "no litigation record" and given high scores.[^15][^9] |
-| **2024-01** | **Scheme Approved** | 12th MC | Owners' meeting approved **HKD 3.3 billion** scheme; **Macro Construction Engineering** selected as contractor.[^7][^8][^9] |
+| **2024-01** | **Scheme Approved** | 12th MC | Owners' meeting approved a scheme costing **approximately HK$330 million**; **Macro Construction Engineering** selected as contractor.[^7][^8][^9] |
 | **2024-04** | **Contract Signed** | 12th MC | OC formally signed construction contract with Macro.[^7] |
 | **2024-07** | **Works Commenced** | Old OC | Scaffolding and protective netting installation began on all 8 blocks simultaneously.[^7][^8] |
 | **2024-09** | **OC Changeover** | New OC | Residents, dissatisfied with high costs and suspected bid-rigging, revoked the Old OC and elected the New OC at a special meeting.[^6][^13] |
@@ -35,9 +37,9 @@ Despite using the URA "Smart Tender" platform, the tender process and results co
 
 ### 3.1 Basic Tender Data and Estimates
 
-* **URA Independent Estimate**: Approx. **HKD 1.44 billion** (core works).
-* **Consultant (Will Power) Estimate**: Approx. **HKD 1.55 billion**.
-* **Macro Construction Bid**: Approx. **HKD 1.52 billion** (core works).
+* **URA Independent Estimate**: Approx. **HK$144 million** (core works).
+* **Consultant (Will Power) Estimate**: Approx. **HK$155 million**.
+* **Macro Construction Bid**: Approx. **HK$152 million** (core works).
 * Consultant and some media described the bid as "within professional estimates".[^11][^14]
 
 ### 3.2 Discrepancy in Risk Rating and Litigation Record
@@ -87,7 +89,7 @@ Supporters and advisors of the Old OC emphasize they followed procedures:
 However, residents and concern groups raise multiple allegations:
 
 1. **Choice of Problematic Contractor**: Accepted the consultant's "no record" report despite Macro's known safety and bid-rigging controversy, without independent verification.[^7][^15]
-2. **Excessive Cost**: The HKD 3.3 billion total cost (HKD 150k-190k per household) was criticized as "sky-high", with some cosmetic works deemed unnecessary.[^16][^22]
+2. **Excessive Cost**: The total cost of approximately HK$330 million (HKD 150k-190k per household) was criticized as "sky-high", with some cosmetic works deemed unnecessary.[^16][^22]
 3. **Lack of Transparency**: Explanations of scope and alternatives were overly technical, forcing residents to rely on civil groups (e.g., Anti-Bid-Rigging Alliance) for analysis.[^21]
 4. **Resistance to Meetings**: Residents had to make multiple efforts to successfully convene the Special Owners' Meeting to revoke the OC.[^13]
 5. **Political Connections**: DAB District Councillor Wong Pik-kiu served as OC consultant, actively promoting the scheme and criticizing opposition, creating a perceived "Consultant-Contractor-Party" high-risk governance model.[^16][^24]
@@ -117,7 +119,7 @@ After the fire, the New OC also faced allegations of ineffective supervision:
 ### 6.1 Role Before Fire
 
 * **Identity**: DAB District Councillor for Tai Po South (covering Wang Fuk Court), Consultant to the Old OC.
-* **Actions**: Actively defended the HKD 3.3 billion repair, urged residents to support the Old OC, and criticized anti-bid-rigging activists as "spreading rumors".[^16][^23]
+* **Actions**: Actively defended the repair costing approximately HK$330 million, urged residents to support the Old OC, and criticized anti-bid-rigging activists as "spreading rumors".[^16][^23]
 
 ### 6.2 Actions After Fire
 

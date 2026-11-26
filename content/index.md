@@ -23,6 +23,10 @@
 
 本存庫旨在整理及保存 2025 年 11 月 26 日大埔宏福苑火災的公開資料，包括新聞報道、影片紀錄、技術分析、承辦商資料、義工及社區支援資訊、官方回應，以及事件後續的相關資料。目標為建立一個公開、集中及可查證的紀錄庫，方便研究、媒體、工程界及關注事件的市民查閱。
 
+**重點後續資料截至：2026年11月26日（香港時間）**。本輪補錄獨立調查報告、檢控、長遠安置及援助進展，詳見[事件時間線](timeline/fire-linear-timeline.md)、[後續官方資料與來源索引](docs/follow-up/README.md)及[現行支援安排](support/README.md)。既有各媒體新聞索引主要收錄至2026年4月14日；本輪為重點補錄，各頁以所列日期及來源為準。
+
+**死難者名單**：[按五項誤殺控罪分組的168名死難者姓名及來源](residents/victims.md)。
+
 ## 一、目的
 
 - 記錄火災事件的公開資料（影片、新聞、文件）
@@ -147,6 +151,10 @@ Pull Request 適用於：
 # 11.26 Tai Po Wang Fuk Court Fire Documentary
 
 This repository aims to collect, organize, and preserve publicly available information related to the Wang Fuk Court fire in Tai Po on 26 November 2025. Materials include news reports, video footage, technical analyses, contractor information, volunteer and community support resources, official statements, and follow-up developments. The objective is to build a public, centralized, and verifiable archive for researchers, media, engineers, and concerned members of the public.
+
+**Selected follow-up developments covered through 26 November 2026 (HKT).** See the [incident timeline](timeline/fire-linear-timeline.en.md), [official follow-up sources](docs/follow-up/README.en.md) and [current support arrangements](support/README.en.md) for the inquiry report, prosecutions, long-term housing and assistance. Existing media indexes mainly cover material collected through 14 April 2026; dates and sources are stated on each page.
+
+**Names of the deceased**: [168 names and sources, grouped by the five reported manslaughter counts](residents/victims.en.md).
 
 ## 1. Purpose
 

@@ -1,5 +1,26 @@
 # Volunteer and Community Support Information
 
+[繁體中文](README.md)
+
+**Current support information checked through 26 November 2026 (HKT).** The early community response list dated 28 November 2025 is preserved below.
+
+## Current Housing and Financial Support
+
+- **Official services**: [Tai Po fire support](https://www.taipofire.gov.hk/eng/index.html), [financial assistance and household social workers](https://www.taipofire.gov.hk/chi/financial.html), [long-term housing arrangements](https://www.hb.gov.hk/wfc/tc/long-term/index.html), and the [Special Sales Exercise](https://www.hb.gov.hk/wfc/tc/special-sales-exercise/index.html). Some linked pages are in Chinese.
+- **Acquisition progress**: In an RTHK interview on 26 November 2026, Michael Wong said 1,914 households had signed binding sale agreements and over 1,730 had completed ownership transfers. Another 57 wanted to sell but still needed ownership checks and legal procedures; 13 were not currently selling. Agreements, transfers, flat selection and moving in are separate stages. [Interview report](https://news.rthk.hk/rthk/ch/component/k2/1879328-20261126.htm)
+- **Rental subsidy**: The 17 July 2026 changes allow owners to receive support through 21 December 2027 regardless of their acquisition or replacement-flat choice. The annual amount is HK$150,000, paid in half-yearly instalments of HK$75,000. For later-delivered Special Sales Exercise flats, eligibility can continue until three months after the new flat's assignment date, subject to the published conditions. [Official terms](https://www.info.gov.hk/gia/general/202607/17/P2026071700328.htm)
+- **Additional grants announced, payments pending**: The 24 November 2026 announcement provides HK$300,000 per flat for owners, split between late December 2026 and late June 2027, and HK$200,000 per deceased person for their family from late December 2026. Former owners who sell to the Government remain covered. Household social workers will arrange payment without a separate application. [Official announcement](https://www.info.gov.hk/gia/general/202611/24/P2026112400134p.htm)
+
+## Emotional and Continuing Support
+
+The household social-worker service helps residents access emotional support, counselling and assistance referrals. In the 26 November 2026 RTHK interview, Alice Mak said the 「守望．同行」 and 「凝聚．同行」 programmes would continue, with access through household social workers. [Official service information](https://www.taipofire.gov.hk/chi/financial.html), [interview report](https://news.rthk.hk/rthk/ch/component/k2/1879328-20261126.htm)
+
+See the [follow-up source index](../docs/follow-up/README.en.md) for dated announcements and residents' accounts. The sources above were collected by web consultation on 26 November 2026 (HKT). Consult the relevant organisation for subsequent service changes.
+
+## Historical Community Resources from the Initial Response
+
+> The original list below records family searches, shelters, supplies and volunteer platforms as of 28 November 2025. It is preserved as a record of the initial community response. Their current operation was not individually checked in this update; descriptions of live information and recruitment refer to that earlier period.
+
 This section contains information on volunteer services, supplies support, and community mutual aid.
 
 Please note that some websites and groups listed below are in Chinese only. In most platforms, the use of machine translators will help.

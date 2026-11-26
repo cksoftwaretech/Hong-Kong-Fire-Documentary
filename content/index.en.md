@@ -7,6 +7,10 @@
 
 This repository aims to collect, organize, and preserve publicly available information related to the Wang Fuk Court fire in Tai Po on 26 November 2025. Materials include news reports, video footage, technical analyses, contractor information, volunteer and community support resources, official statements, and follow-up developments. The objective is to build a public, centralized, and verifiable archive for researchers, media, engineers, and concerned members of the public.
 
+**Selected follow-up developments covered through 26 November 2026 (HKT).** See the [incident timeline](timeline/fire-linear-timeline.en.md), [official follow-up sources](docs/follow-up/README.en.md) and [current support arrangements](support/README.en.md) for the inquiry report, prosecutions, long-term housing and assistance. Existing media indexes mainly cover material collected through 14 April 2026; dates and sources are stated on each page.
+
+**Names of the deceased**: [168 names and sources, grouped by the five reported manslaughter counts](residents/victims.en.md).
+
 ## 1. Purpose
 
 - To record publicly available information related to the incident (videos, news, documents)

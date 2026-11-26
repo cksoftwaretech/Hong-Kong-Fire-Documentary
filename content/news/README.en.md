@@ -2,6 +2,12 @@
 
 This section compiles news reports, feature articles, and official releases from major media outlets regarding the "11.26 Tai Po Wang Fuk Court Fire".
 
+## Selected follow-up update (26 November 2026)
+
+See the [official follow-up source index](../docs/follow-up/README.en.md) and [incident timeline](../timeline/fire-linear-timeline.en.md) for the inquiry report, accountability, prosecutions, long-term housing, assistance and residents' anniversary accounts.
+
+The existing media indexes below mainly cover material collected through 14 April 2026, with different cutoffs by source. Index dates may reflect collection rather than publication; check the original publication date when citing. The news scraper was not rerun across all outlets for this update.
+
 ## By Media Outlet (Local & Chinese)
 
 - [**Now News**](now-news/README.md)
@@ -54,4 +60,4 @@ This section compiles news reports, feature articles, and official releases from
 
 - [**Hong Kong Tai Po Wang Fuk Court Fire Condolence List**](international-condolences/international-condolences-en.md)
 
-Last update : 04-Nov-2025
+Index description updated: 26 November 2026 (HKT).

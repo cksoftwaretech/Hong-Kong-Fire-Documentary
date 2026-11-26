@@ -1,6 +1,6 @@
-# Tai Po Heng Fuk Estate Fire Government Departments Enforcement Timeline
+# Wang Fuk Court Fire: Government Action Timeline
 
-Timeline cross-verified from sources (including Wikipedia and government news sites), times corrected to most accurate version: Fire started at 2025-11-26 14:51, police arrests on 11-27; fire rescue times from Wikipedia precise records. [attached_file:1]
+**Updated through: November 26, 2026 (Hong Kong time).** The historical 2025 entries retain their contemporaneous figures and sources. The appended sections cover the subsequent inquiry, prosecutions, reforms and housing arrangements.
 
 ### Police Actions
 
@@ -80,6 +80,37 @@ Timeline cross-verified from sources (including Wikipedia and government news si
 
 ---
 
-**Data as of: December 15, 2025**
+**Historical entries above: data through December 15, 2025**
 
-**Note: Directly translated by AI, not manually verified.**
+The original historical table was compiled using AI and was not rechecked entry by entry in this update; its sources are retained as recorded. Each new entry below links to its source and records its status at the time.
+
+## Subsequent inquiry, prosecutions and reforms (2026)
+
+| Date | Action and status at the time | Sources |
+| --- | --- | --- |
+| 2026-01-15 | Police completed identification and forensic examination of the remains, confirming 168 deaths and no missing persons unaccounted for. These updated figures do not replace earlier rescue reports. | [Police announcement](https://www.info.gov.hk/gia/general/202601/15/P2026011500613.htm) |
+| 2026-01-26 | The Committee announced its first public invitation for information, open from January 27 to February 10. | [Committee announcement](https://www.info.gov.hk/gia/general/202601/26/P2026012600281.htm) |
+| 2026-03-19 | Evidential hearings began. | [Hearing transcript](https://www.ic-wangfukcourtfire.gov.hk/pdf/transcripts/Transcript-%28Chinese%29_20260319.pdf) |
+| 2026-06-10 | Police and the ICAC charged seven people and two companies with 25 offences: five police manslaughter charges and 20 ICAC charges concerning fraud, money laundering, attempted perversion of justice and tax evasion. Defendants overlap between the two cases and must not be double-counted. | [Joint prosecution announcement](https://www.info.gov.hk/gia/general/202606/10/P2026061000675.htm) |
+| 2026-06-22 | The Committee decided against recommending conversion into a statutory commission. Its inquiry did not determine criminal or civil liability or replace internal government accountability procedures. | [Committee decision](https://www.info.gov.hk/gia/general/202606/22/P2026062200684.htm) |
+| 2026-07-17 | The evidential hearing phase ended after 30 hearing days and 80 witnesses. Evidence review and reporting continued. | [Committee's subsequent summary](https://www.info.gov.hk/gia/general/202608/18/P2026081800218.htm) |
+| 2026-08-18 | An extension was granted for submission of the report, then expected by the end of October. | [Extension announcement](https://www.info.gov.hk/gia/general/202608/18/P2026081800218.htm) |
+| 2026-10-22 | The completed inquiry report was submitted to the Chief Executive. | [Submission announcement](https://www.info.gov.hk/gia/general/202610/22/P2026102200258.htm) |
+| 2026-10-29 | The Government published a redacted report, announced reforms and began a civil service accountability investigation. Full publication awaits related criminal proceedings. Winnie Ho offered her resignation on October 28 and ceased housing secretary duties on October 29 to accept political responsibility. | [Government response](https://www.info.gov.hk/gia/general/202610/29/P2026102900555.htm), [Resignation statement](https://www.info.gov.hk/gia/general/202610/29/P2026102900599.htm) |
+| 2026-11-23 | The Government reported 29 recommendations implemented. A new public-housing building control unit replaced the Independent Checking Unit. Six legislative amendments and the proposed building maintenance support body were still being advanced. | [Reform progress](https://www.info.gov.hk/gia/general/202611/23/P2026112300591.htm) |
+| 2026-11-23 | The Government listed 25 police/ICAC charges, 25 Labour Department prosecutions, 259 Buildings Department prosecutions and 12 Fire Services Department prosecutions. The police/ICAC cases were next listed for January 14, 2027. These were proceedings and listings, not judgments. | [Prosecution update](https://www.info.gov.hk/gia/general/202611/23/P2026112300591.htm) |
+
+## Subsequent resident support and long-term housing (2026)
+
+| Date | Action and status at the time | Sources |
+| --- | --- | --- |
+| 2026-02-21 | Cash acquisition or flat-for-flat options were announced for 1,736 flats in Blocks A–G. Wang Chi House was initially excluded. | [Housing plan](https://www.info.gov.hk/gia/general/202602/21/P2026022100429.htm) |
+| 2026-04-20 | Supervised visits to collect belongings began in the seven affected blocks. These were temporary visits, not reopening for residence. | [Visit arrangements](https://www.info.gov.hk/gia/general/202604/20/P2026042000315.htm) |
+| 2026-05-14 | Acquisition offer letters were being issued; sale agreements and title transfers remained subsequent steps. | [Government announcement](https://www.info.gov.hk/gia/general/202605/14/P2026051400371.htm) |
+| 2026-06-26 | Wang Chi House reached 193 acceptances (77.8%), exceeding the 75% threshold, and the housing plan was opened to that block. | [Government announcement](https://www.info.gov.hk/gia/general/202606/26/P2026062600436.htm) |
+| 2026-07-17 | Revised rental assistance retained basic support through December 21, 2027, with extensions for later-completing Special Sales Scheme flats. | [Assistance arrangements](https://www.info.gov.hk/gia/general/202607/17/P2026071700328.htm) |
+| 2026-09-29 | Special Sales Scheme flat selection began. Selection is separate from completing purchase procedures or moving in. | [Government announcement](https://www.info.gov.hk/gia/general/202609/29/P2026092900380.htm) |
+| 2026-11-24 | New grants were announced: HK$300,000 per flat owner and HK$200,000 per deceased person for their family, payable from late December 2026; the second owner instalment is due in late June 2027. | [Grant announcement](https://www.info.gov.hk/gia/general/202611/24/P2026112400134p.htm) |
+| 2026-11-26 | Michael Wong told RTHK that 1,914 households had binding sale agreements, over 1,730 had completed title transfers and over 1,400 had selected Special Sales Scheme flats. Agreements, conveyancing and selection must be recorded separately. | [RTHK interview report](https://news.rthk.hk/rthk/ch/component/k2/1879328-20261126.htm?spTabChangeable=0) |
+
+**Sources and status:** The additions rely on the linked announcements, transcript and reports. Charges are not convictions; inquiry findings are not court rulings; proposed or drafted reforms are not enacted measures. Historical 2025 figures remain as recorded, with later developments added as dated entries. See the [follow-up documents and sources](../docs/follow-up/README.en.md).
